@@ -11,7 +11,7 @@
       <i class="fa fa-cog" aria-hidden="true"></i>
       <i class="fa fa-comments" aria-hidden="true"></i>
       <div class="tlogo">
-        <img src="https://worldvectorlogo.com/logos/tinder-1.svg" alt="Tinder Logo" title="Tinder Logo" />
+        <img src="http://culturedvultures.com/wp-content/uploads/2015/09/Tinder_logo.jpg" alt="Tinder Logo" title="Tinder Logo" />
       </div>
     </div>
     <div class="tbgwrap">
