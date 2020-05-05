@@ -1,5 +1,5 @@
 <html>
-<head> Head Page </head>
+<head> Home Page </head>
 <body>
 <!-- <h2>Hello World! Welcome to Jenkins Training...</h2>
 
