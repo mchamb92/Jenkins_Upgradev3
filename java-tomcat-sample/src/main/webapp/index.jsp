@@ -1,4 +1,5 @@
 <html>
+<head> Head Page </head>
 <body>
 <!-- <h2>Hello World! Welcome to Jenkins Training...</h2>
 
@@ -6,7 +7,7 @@
 <h3>I am tired of being such a bad programmer </h3>
 <p> Thanks for viewing this amazing tutorial. Stay tuned and you will see more...</p> -->
 
-<title> Home Page</title>
+
 <div class="tbg">
     <div class="theader">
       <i class="fa fa-cog" aria-hidden="true"></i>
